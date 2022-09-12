@@ -1,0 +1,11 @@
+﻿  aimbot.cpp
+C:\Users\joeyb\Projects\Coding\C++\AssaultCubeAimbot\AssaultCubeAimbot\aimbot.cpp(108,48): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\joeyb\Projects\Coding\C++\AssaultCubeAimbot\AssaultCubeAimbot\aimbot.cpp(157,31): warning C4244: '/=': conversion from 'double' to 'float', possible loss of data
+C:\Users\joeyb\Projects\Coding\C++\AssaultCubeAimbot\AssaultCubeAimbot\aimbot.cpp(158,31): warning C4244: '/=': conversion from 'double' to 'float', possible loss of data
+C:\Users\joeyb\Projects\Coding\C++\AssaultCubeAimbot\AssaultCubeAimbot\aimbot.cpp(159,31): warning C4244: '/=': conversion from 'double' to 'float', possible loss of data
+C:\Users\joeyb\Projects\Coding\C++\AssaultCubeAimbot\AssaultCubeAimbot\aimbot.cpp(163,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  AssaultCubeAimbot.vcxproj -> C:\Users\joeyb\Projects\Coding\C++\AssaultCubeAimbot\Debug\AssaultCubeAimbot.exe
